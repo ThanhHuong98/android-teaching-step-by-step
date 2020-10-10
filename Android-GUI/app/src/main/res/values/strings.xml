@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">GUILogin</string>
+    <string name="login">Login</string>
+    <string name="forget_password">Forget Password?</string>
+    <string name="password_label">PASSWORD</string>
+    <string name="email_label">E-MAIL</string>
+    <string name="join_now">Join now</string>
+    <string name="not_a_member">Not a member?</string>
+</resources>

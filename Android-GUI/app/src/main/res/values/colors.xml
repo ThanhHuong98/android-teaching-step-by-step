@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<!--    background color-->
+    <color name="colorPrimary">#425c5a</color>
+    <color name="colorSecondary">#fecea2</color>
+    <color name="blueLightColor">#9bacac</color>
+
+<!--    color for text-->
+    <color name="textColor">#9bacac</color>
+    
+</resources>
